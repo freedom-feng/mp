@@ -118,4 +118,8 @@ public class test {
     public void test07(){
         System.out.println("hello zhazhahui11");
     }
+
+    public void test08(){
+        System.out.println("hello wangjing");
+    }
 }
