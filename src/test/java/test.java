@@ -108,4 +108,9 @@ public class test {
             System.out.println(employee);
         }
     }
+
+    @Test
+    public void test06(){
+        System.out.println("hello feng001");
+    }
 }
