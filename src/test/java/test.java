@@ -1,4 +1,3 @@
-import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.feng.mp.beans.Employee;
 import com.feng.mp.mapper.EmployeeMapper;
@@ -7,11 +6,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import java.sql.SQLException;
-import java.sql.Wrapper;
-import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class test {
     private ApplicationContext ac= new ClassPathXmlApplicationContext("applicationContext.xml");
@@ -121,5 +116,9 @@ public class test {
 
     public void test08(){
         System.out.println("hello wangjing");
+    }
+
+    public void test10(){
+        System.out.println("hello feng003");
     }
 }
