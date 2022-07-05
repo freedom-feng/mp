@@ -113,4 +113,9 @@ public class test {
     public void test06(){
         System.out.println("hello feng001");
     }
+
+
+    public void test07(){
+        System.out.println("hello zhazhahui");
+    }
 }
