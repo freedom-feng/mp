@@ -122,4 +122,8 @@ public class test {
     public void test08(){
         System.out.println("hello wangjing");
     }
+
+    public void test21(){
+        System.out.println("hello feng 测试");
+    }
 }
