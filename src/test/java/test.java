@@ -110,20 +110,12 @@ public class test {
     }
 
     @Test
-    public void test06(){
-        System.out.println("hello feng001");
-    }
+    public void testDelete(){
+//        HashMap<String , Object> map = new HashMap<>();
+//        map.put("gender",2);
+//        Integer result=mapper.deleteByMap(map);
+//        System.out.println(result);
 
 
-    public void test07(){
-        System.out.println("hello zhazhahui11");
-    }
-
-    public void test08(){
-        System.out.println("hello wangjing");
-    }
-
-    public void test21(){
-        System.out.println("hello feng 测试");
     }
 }
